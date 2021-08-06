@@ -1,5 +1,5 @@
 ## Better Game Launcher
-Launcher that starts your games from Steam with more optimized parameters, which gives an increase in performance
+Launcher that starts your games from Steam with more optimized parameters, which gives an increase in performance.
 
  - Automatically searches for the games you installed, you just have to select one of them.
  - Launcher does not count as a cheat, since it does not affect the game itself.
