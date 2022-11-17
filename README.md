@@ -1,4 +1,7 @@
-## Better Game Launcher
+<h1 align="center">Better Game Launcher</h1>
+
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 Launcher that starts your games from Steam with more optimized parameters, which gives an increase in performance
 
  - Automatically searches for the games you installed, you just have to select one of them.
